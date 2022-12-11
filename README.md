@@ -63,7 +63,7 @@ Libraries are included in the Software under the following license terms:
 - Bouncy Castle https://www.bouncycastle.org/licence.html
 
 
-Usage: 0xPOWminer [OPTIONS]
+Usage: ABASminer [OPTIONS]
 
 Options:
 
