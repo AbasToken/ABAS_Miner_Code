@@ -9,27 +9,24 @@
 
 0b) Nvidia driver, and/or AMD driver.
 
-1) Clone 0xbtcPool.bat/0xbtcPool.sh file and open the editor for the cloned file.
-  * For ethOS, refer to 0xbtcPool-ethOS.sh/0xbtcPool-ethOS-screen.sh
+1) Open ABASminer Conf file
 
-2) You only need to edit the line that starts with 'dotnet' for launch parameters.
+2) Below are the following arguments that may/need to be changed :
 
-3) Below are the following arguments that may/need to be changed :
-
-3a) address=
+2a) address=
   * If omitted, you are not able to mine, a dummy account is the default with no funds.
   * Replace the value with your own mining Ethereum address (42 characters long including '0x' prefix, case-sensitive).
-3b) privateKey=
+2b) privateKey=
   * If omitted, you are not able to mine, a dummy account is the default with no funds.
   * Replace the value with your own mining Ethereum address Private key (64 characters long including, case-sensitive).
-3c) MinABASperMint=
+2c) MinABASperMint=
   * If omitted, it is set to the default 3.5 ABAS per mint transaction.
   * Replace this value with the amount of ABAS you wish to recieve per Mint.
-3d) web3api=
+2d) web3api=
   * If omitted, it is set to my Alchemy account.
   * Replace the value with your web3api as you desire.
 
-4) Save and (run the '.bat' file)/(sh the '.sh' file) you have newly created.
+3) Save and ABASminer.bat file in the directory.
 
 ### Notes
 
