@@ -43,7 +43,7 @@ Also must fill in account and private key in ABASMiner file
   - If omitted, it is set to my Alchemy account.
   - Replace the value with your web3api as you desire.
 
-3) Save and ABASminer.bat file in the directory.
+3) Save and run 'ABASminer.bat file' in this directory.
 
 ### Notes
 
