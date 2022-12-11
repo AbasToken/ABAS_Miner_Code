@@ -28,17 +28,17 @@ Also must fill in account and private key in ABASMiner file
 2) Below are the following arguments that may/need to be changed :
 
 2a) address=
-  * If omitted, you are not able to mine, a dummy account is the default with no funds.
-  * Replace the value with your own mining Ethereum address (42 characters long including '0x' prefix, case-sensitive).
+  - If omitted, you are not able to mine, a dummy account is the default with no funds.
+  - Replace the value with your own mining Ethereum address (42 characters long including '0x' prefix, case-sensitive).
 2b) privateKey=
-  * If omitted, you are not able to mine, a dummy account is the default with no funds.
-  * Replace the value with your own mining Ethereum address Private key (64 characters long including, case-sensitive).
+  - If omitted, you are not able to mine, a dummy account is the default with no funds.
+  - Replace the value with your own mining Ethereum address Private key (64 characters long including, case-sensitive).
 2c) MinABASperMint=
-  * If omitted, it is set to the default 3.5 ABAS per mint transaction.
-  * Replace this value with the amount of ABAS you wish to recieve per Mint.
+  - If omitted, it is set to the default 3.5 ABAS per mint transaction.
+  - Replace this value with the amount of ABAS you wish to recieve per Mint.
 2d) web3api=
-  * If omitted, it is set to my Alchemy account.
-  * Replace the value with your web3api as you desire.
+  - If omitted, it is set to my Alchemy account.
+  - Replace the value with your web3api as you desire.
 
 3) Save and ABASminer.bat file in the directory.
 
