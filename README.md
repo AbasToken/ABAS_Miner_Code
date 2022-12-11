@@ -1,7 +1,7 @@
 # ABAS_Miner_Code
 ABAS Miner forked from IwYeo's SoliditySHA3Miner
 # SOLO MODE User must have Ethereum on Arbitrum Account
-# Also must fill in account and private key in ABASMiner file
+Also must fill in account and private key in ABASMiner file
 
 Do refer to 'GuideForSoloMining.txt' on how to get started.
 
