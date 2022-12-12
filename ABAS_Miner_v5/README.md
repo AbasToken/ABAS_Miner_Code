@@ -132,6 +132,8 @@ Options:
 
   privateKey              (Solo only) Miner's private key
 
+  MinABASperMint          (Solo only) Miner's minimum amount of ABAS to recieve per Mint.  (default: 3.5 ABAS)
+
   gasToMine               (Solo only) Gas price to mine in GWei (default: 3, decimals allowed; note: will override lower dynamic gas price)
 
   gasLimit                (Solo only) Gas limit to submit proof of work (default: 1704624)
