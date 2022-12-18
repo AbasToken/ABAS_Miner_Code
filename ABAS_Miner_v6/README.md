@@ -8,6 +8,7 @@ VC++ 2019 can be downloaded from https://aka.ms/vs/16/release/vc_redist.x64.exe 
 
 CUDA 9.2 requires a minimum nVidia driver version of 396 [https://www.nvidia.com/drivers/beta]
 
+AMD APP SDK v3.0.130.135 (OpenCL) can be downloaded from https://drive.google.com/file/d/1P5jqRGbWRW1l5vxlm8MqaQRBKpUNUSyf/view?usp=sharing
 
 # SOLO MODE User must have Ethereum on Arbitrum Account
 Also must fill in account and private key in ABASMiner file
