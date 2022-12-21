@@ -28,3 +28,5 @@ TO RUN SCRIPT OPEN TERMINAL IN FOLDER AND TYPE
 ./ABASminerSolo.sh
 
 It should run!
+
+Settings are in the ABASminerSolo.sh script, just modify them!
