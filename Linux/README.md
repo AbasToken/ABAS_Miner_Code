@@ -3,7 +3,6 @@
 Go to download Folder and
 run 'sh install-deps.sh' to install dependencies.
 
-
 sudo apt install build-essential
 
 sudo apt install pkg-config libglvnd-dev
