@@ -24,6 +24,6 @@ Go to Downloaded Folder and Open Terminal
 
 
 TO RUN SCRIPT OPEN TERMINAL IN FOLDER AND TYPE
-./0xbtcSolo.sh
+./ABASminerSolo.sh
 
 It should run!
