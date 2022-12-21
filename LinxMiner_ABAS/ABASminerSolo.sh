@@ -11,6 +11,6 @@ while : ; do
   if [ -f ABASminer.conf ] ; then
     rm -f ABASminer.conf
   fi
-  dotnet ABASminer.dll allowCPU=false allowIntel=true allowAMD=true allowCUDA=true web3api=https://arb-mainnet.g.alchemy.com/v2/WHa04zxQ0-gU4lKeWM0Se47WOG8RZpg3 abiFile=ABAS.abi contract=0x027e2eB1C79bD1921a29fd377A8C978B3193401c MinABASperMint=3.6 NFTApiURL=https://abastoken.org/api/abas/0 NFTApiPath=$.result.NextNFTMint NFTApiPathID=$.result.NextNFTMintID gasToMine=0.1  gasApiMax=0.2 gasLimit=600000 gasApiURL= gasApiPath=$.safeLow gasApiMultiplier=0.1 gasApiOffset=1.0 privateKey=9f151c742cefc2d813551462c67c60cf9c6e55b6444fdc135ebb2f9d1bb19235
+  dotnet ABASminer.dll allowCPU=false allowIntel=true allowAMD=true allowCUDA=true web3api=https://arb-mainnet.g.alchemy.com/v2/WHa04zxQ0-gU4lKeWM0Se47WOG8RZpg3 abiFile=ABAS.abi contract=0x027e2eB1C79bD1921a29fd377A8C978B3193401c MinABASperMint=3.6 NFTApiURL=https://abastoken.org/api/abas/0 NFTApiPath=$.result.NextNFTMint NFTApiPathID=$.result.NextNFTMintID gasToMine=0.1  gasApiMax=0.2 gasLimit=600000 gasApiURL= gasApiPath=$.safeLow gasApiMultiplier=0.1 gasApiOffset=1.0 privateKey=72fc85c5baf936bdc7970c64b0119c086cfde9700687e155a572dad5cee26af2
   [[ $? -eq 22 ]] || break
 done
