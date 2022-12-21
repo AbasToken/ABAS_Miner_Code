@@ -24,6 +24,7 @@ Go to Downloaded Folder and Open Terminal
 
 
 TO RUN SCRIPT OPEN TERMINAL IN FOLDER AND TYPE
+
 ./ABASminerSolo.sh
 
 It should run!
