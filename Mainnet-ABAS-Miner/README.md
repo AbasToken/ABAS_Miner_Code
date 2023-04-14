@@ -59,7 +59,7 @@ Also must fill in account and private key in ABASMiner file
   - "NFTApiURL": "https://abastoken.org/api/abas/0",
   - "NFTApiPath": "$.result.NextNFTMint",
   - "NFTApiPathID": "$.result.NextNFTMintID",
-  - 
+
 3FinalB) or Your AbasMiner.conf should look like this
   - "NFTApiURL": "",
   - "NFTApiPath": "0x1A20D328CF126dD39e03b29979c0815DD101321e",
