@@ -55,18 +55,18 @@ Also must fill in account and private key in ABASMiner file
   - Is the path to the JSON result for the ID of the NFT. i.e. "$.result.NextNFTMintID"
   - IF NFTApiURL is set to "" then it is the direct ID of the NFT i.e. "447"
   
-3Final) Your AbasMiner.conf should look lilke this
+4a) Your AbasMiner.conf should look lilke this
   - "NFTApiURL": "https://abastoken.org/api/abas/0",
   - "NFTApiPath": "$.result.NextNFTMint",
   - "NFTApiPathID": "$.result.NextNFTMintID",
 
-3FinalB) or Your AbasMiner.conf should look like this
+4b) or Your AbasMiner.conf should look like this
   - "NFTApiURL": "",
   - "NFTApiPath": "0x1A20D328CF126dD39e03b29979c0815DD101321e",
   - "NFTApiPathID": "447",
 
 
-4) Save and run 'ABASminer.bat file' in this directory.
+5) Save and run 'ABASminer.bat file' in this directory.
 
 ### Notes
 
