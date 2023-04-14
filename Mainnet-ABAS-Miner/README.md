@@ -65,7 +65,7 @@ Also must fill in account and private key in ABASMiner file
   - "NFTApiPath": "0x1A20D328CF126dD39e03b29979c0815DD101321e",
   - "NFTApiPathID": "447"
 
-## Save and run 'ABASminer.bat file' in this directory.
+Save and run 'ABASminer.bat file' in this directory.
 
 ### Notes
 
