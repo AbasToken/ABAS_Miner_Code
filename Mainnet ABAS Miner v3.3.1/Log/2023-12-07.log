@@ -1,0 +1,248 @@
+
+*** ABAS_Miner 3.3.1 forked from IwYeo's SoliditySHA3Miner - Untouchable and crnxhh (2023) ***
+*** Built with .NET 5.0 SDK, VC++ 19.28.29914, gcc 4.8.5, nVidia CUDA SDK 10.2 64-bit, and AMD APP SDK v3.0.130.135 (OpenCL)
+
+Donation addresses:
+ETH (or any ERC 20/918 tokens)	: 0x9172ff7884CEFED19327aDaCe9C470eF1796105c
+BTC                             : 3GS5J5hcG6Qcu9xHWGmJaV5ftWLmZuR255
+LTC                             : LbFkAto1qYt8RdTFHL871H4djendcHyCyB
+
+[2023-12-07T21:37:12] [INFO] King making disabled.
+[2023-12-07T21:37:12] [INFO] Solo mining mode.
+[2023-12-07T21:37:12] CUDA [INFO] Device not specified, default assign all CUDA devices.
+[2023-12-07T21:37:12] OpenCL [INFO] AMD APP device not specified, default assign all AMD APP devices.
+[2023-12-07T21:37:12] OpenCL [WARN] Unable to get device count for AMD APP: CL_DEVICE_NOT_FOUND
+[2023-12-07T21:37:13] [INFO] Contract address : 0x0B549125fbEA37E52Ee05FA388a3A0a7Df792Fa7
+[2023-12-07T21:37:13] [INFO] Miner's address : 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
+[2023-12-07T21:37:13] [INFO] ABI specified, using "ABAS.abi"
+[2023-12-07T21:37:13] [INFO] Gas limit: 2704624
+[2023-12-07T21:37:13] [INFO] Gas to mine: 2.3 GWei
+[2023-12-07T21:37:13] [INFO] Minimum ABAS per Mint: 3.5
+[2023-12-07T21:37:13] [INFO] Gas API URL: 
+[2023-12-07T21:37:13] [INFO] Gas API path: 
+[2023-12-07T21:37:13] [INFO] Gas API path: 
+[2023-12-07T21:37:13] [INFO] Minting ETH from contract: True
+[2023-12-07T21:37:13] [INFO] Checking maximum target from network...
+[2023-12-07T21:37:13] CUDA [WARN] NvSMI library not found.
+[2023-12-07T21:37:13] CUDA ID: 0 [INFO] Assigning device...
+[2023-12-07T21:37:13] CUDA ID: 0 [INFO] Intensity: 25.5
+[2023-12-07T21:37:13] CUDA ID: 0 [INFO] Assigned device (NVIDIA GeForce GTX 1060 6GB)...
+[2023-12-07T21:37:13] CUDA ID: 0 [INFO] Initializing device...
+[2023-12-07T21:37:13] CUDA ID: 0 [INFO] Compute capability: 6.1
+[2023-12-07T21:37:13] [INFO] JSON-API service started at http://127.0.0.1:4078/...
+[2023-12-07T21:37:13] [INFO] Checking latest parameters from network...
+[2023-12-07T21:37:13] [INFO] ccminer-API service started at 127.0.0.1:4068...
+[2023-12-07T21:37:14] [INFO] New challenge detected 0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a...
+[2023-12-07T21:37:14] [INFO] New target detected 0x0000040000000000000000000000000000000000000000000000000000000000...
+[2023-12-07T21:37:14] [INFO] New difficulty detected (1)...
+[2023-12-07T21:37:14] [INFO] New ABAS Reward detected 76.975 ABAS
+[2023-12-07T21:37:14] CUDA ID: 0 [INFO] Start mining...
+[2023-12-07T21:37:14] CUDA ID: 0 [INFO] Found solution, verifying...
+[2023-12-07T21:37:14] CUDA ID: 0 [INFO] Solution verified, submitting nonce 0xba9b6e73e4c9d105a543f540f66a25000000000093a14363238dd615ef9f4252...
+[2023-12-07T21:37:14] [STOP] SOLVING
+[2023-12-07T21:37:14] [NFT INFO] This many slow blocks (12 minutes+) until NFT becomes active again 78
+[2023-12-07T21:37:14] [ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:37:14] [ERC20 Token Address List] Max Number of Tokens to  mint = 1
+[2023-12-07T21:37:14] [INFO] NFT Address  0x1A20D328CF126dD39e03b29979c0815DD101321e
+[2023-12-07T21:37:14] [INFO] NFT ID  1373
+[2023-12-07T21:37:15] [EPOCH #] EPOCH # 2375
+[2023-12-07T21:37:15] [INFO] Current ETH you SEND if solved now is 0.0000153846 Ethereum
+[2023-12-07T21:37:15] [ERC20] You can mint 3 ERC20 Tokens on this Mint
+[2023-12-07T21:37:15] [ERC20] You have a total of 1 ERC20 Tokens in your Mint List
+[2023-12-07T21:37:15] [ERC20] We will mint this many tokens total this mint: 1
+[2023-12-07T21:37:15] [Minting ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:37:15] [INFO] Please enter your personal Address and Private Key in ABASminer Config File, using exposed privateKey
+[2023-12-07T21:37:15] [INFO] MinABASperMint is 3.5 ABAS
+[2023-12-07T21:37:15] [INFO] Current Challenge is  6742447040314060665417137613664534176259221555550072204568321480251030233162
+[2023-12-07T21:37:15] [INFO] Current Challenge is  0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a
+[2023-12-07T21:37:15] [INFO] Current Reward for a Solve is 77.073 ABAS
+[2023-12-07T21:37:15] Submitting ABAS reward is larger than MinABASperMint
+[2023-12-07T21:37:15] [ERROR] One or more errors occurred. (insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6236019685562663)
+ insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6236019685562663
+  insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6236019685562663
+
+*** ABAS_Miner 3.3.1 forked from IwYeo's SoliditySHA3Miner - Untouchable and crnxhh (2023) ***
+*** Built with .NET 5.0 SDK, VC++ 19.28.29914, gcc 4.8.5, nVidia CUDA SDK 10.2 64-bit, and AMD APP SDK v3.0.130.135 (OpenCL)
+
+Donation addresses:
+ETH (or any ERC 20/918 tokens)	: 0x9172ff7884CEFED19327aDaCe9C470eF1796105c
+BTC                             : 3GS5J5hcG6Qcu9xHWGmJaV5ftWLmZuR255
+LTC                             : LbFkAto1qYt8RdTFHL871H4djendcHyCyB
+
+[2023-12-07T21:38:04] [INFO] Solo mining mode.
+[2023-12-07T21:38:04] [INFO] King making disabled.
+[2023-12-07T21:38:04] CUDA [INFO] Device not specified, default assign all CUDA devices.
+[2023-12-07T21:38:04] OpenCL [INFO] AMD APP device not specified, default assign all AMD APP devices.
+[2023-12-07T21:38:05] OpenCL [WARN] Unable to get device count for AMD APP: CL_DEVICE_NOT_FOUND
+[2023-12-07T21:38:05] [INFO] Contract address : 0x0B549125fbEA37E52Ee05FA388a3A0a7Df792Fa7
+[2023-12-07T21:38:05] [INFO] Miner's address : 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
+[2023-12-07T21:38:05] [INFO] ABI specified, using "ABAS.abi"
+[2023-12-07T21:38:05] [INFO] Gas limit: 2704624
+[2023-12-07T21:38:05] [INFO] Gas to mine: 2.3 GWei
+[2023-12-07T21:38:05] [INFO] Minimum ABAS per Mint: 3.5
+[2023-12-07T21:38:05] [INFO] Gas API URL: 
+[2023-12-07T21:38:05] [INFO] Gas API path: 
+[2023-12-07T21:38:05] [INFO] Gas API path: 
+[2023-12-07T21:38:05] [INFO] Minting ETH from contract: True
+[2023-12-07T21:38:05] [INFO] Checking maximum target from network...
+[2023-12-07T21:38:05] CUDA [WARN] NvSMI library not found.
+[2023-12-07T21:38:05] CUDA ID: 0 [INFO] Assigning device...
+[2023-12-07T21:38:05] CUDA ID: 0 [INFO] Compute capability: 6.1
+[2023-12-07T21:38:05] CUDA ID: 0 [INFO] Intensity: 25.5
+[2023-12-07T21:38:05] CUDA ID: 0 [INFO] Assigned device (NVIDIA GeForce GTX 1060 6GB)...
+[2023-12-07T21:38:05] CUDA ID: 0 [INFO] Initializing device...
+[2023-12-07T21:38:05] [INFO] JSON-API service started at http://127.0.0.1:4078/...
+[2023-12-07T21:38:05] [INFO] Checking latest parameters from network...
+[2023-12-07T21:38:05] [INFO] ccminer-API service started at 127.0.0.1:4068...
+[2023-12-07T21:38:06] [INFO] New challenge detected 0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a...
+[2023-12-07T21:38:06] [INFO] New target detected 0x0000040000000000000000000000000000000000000000000000000000000000...
+[2023-12-07T21:38:06] [INFO] New difficulty detected (1)...
+[2023-12-07T21:38:06] [INFO] New ABAS Reward detected 78.601 ABAS
+[2023-12-07T21:38:06] CUDA ID: 0 [INFO] Start mining...
+[2023-12-07T21:38:06] CUDA ID: 0 [INFO] Found solution, verifying...
+[2023-12-07T21:38:06] CUDA ID: 0 [INFO] Solution verified, submitting nonce 0x7b8b62a9ff700d15ce8726439d58f10000000000c05d524bb121f707fcb46448...
+[2023-12-07T21:38:06] [STOP] SOLVING
+[2023-12-07T21:38:07] [NFT INFO] This many slow blocks (12 minutes+) until NFT becomes active again 78
+[2023-12-07T21:38:07] [ERC20 Token Address List] Max Number of Tokens to  mint = 1
+[2023-12-07T21:38:07] [ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:38:07] [INFO] NFT Address  0x1A20D328CF126dD39e03b29979c0815DD101321e
+[2023-12-07T21:38:07] [INFO] NFT ID  1373
+[2023-12-07T21:38:07] [EPOCH #] EPOCH # 2375
+[2023-12-07T21:38:07] [INFO] Current ETH you SEND if solved now is 0.0000151515 Ethereum
+[2023-12-07T21:38:07] [ERC20] You can mint 3 ERC20 Tokens on this Mint
+[2023-12-07T21:38:07] [ERC20] You have a total of 1 ERC20 Tokens in your Mint List
+[2023-12-07T21:38:07] [ERC20] We will mint this many tokens total this mint: 1
+[2023-12-07T21:38:07] [Minting ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:38:07] [INFO] Please enter your personal Address and Private Key in ABASminer Config File, using exposed privateKey
+[2023-12-07T21:38:07] [INFO] MinABASperMint is 3.5 ABAS
+[2023-12-07T21:38:08] [INFO] Current Challenge is  6742447040314060665417137613664534176259221555550072204568321480251030233162
+[2023-12-07T21:38:08] [INFO] Current Challenge is  0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a
+[2023-12-07T21:38:08] [INFO] Current Reward for a Solve is 78.651 ABAS
+[2023-12-07T21:38:08] Submitting ABAS reward is larger than MinABASperMint
+[2023-12-07T21:38:08] [ERROR] One or more errors occurred. (insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235786585329563)
+ insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235786585329563
+  insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235786585329563
+
+*** ABAS_Miner 3.3.1 forked from IwYeo's SoliditySHA3Miner - Untouchable and crnxhh (2023) ***
+*** Built with .NET 5.0 SDK, VC++ 19.28.29914, gcc 4.8.5, nVidia CUDA SDK 10.2 64-bit, and AMD APP SDK v3.0.130.135 (OpenCL)
+
+Donation addresses:
+ETH (or any ERC 20/918 tokens)	: 0x9172ff7884CEFED19327aDaCe9C470eF1796105c
+BTC                             : 3GS5J5hcG6Qcu9xHWGmJaV5ftWLmZuR255
+LTC                             : LbFkAto1qYt8RdTFHL871H4djendcHyCyB
+
+[2023-12-07T21:39:20] [INFO] Solo mining mode.
+[2023-12-07T21:39:20] [INFO] King making disabled.
+[2023-12-07T21:39:20] CUDA [INFO] Device not specified, default assign all CUDA devices.
+[2023-12-07T21:39:20] OpenCL [INFO] AMD APP device not specified, default assign all AMD APP devices.
+[2023-12-07T21:39:20] OpenCL [WARN] Unable to get device count for AMD APP: CL_DEVICE_NOT_FOUND
+[2023-12-07T21:39:20] [INFO] Contract address : 0x0B549125fbEA37E52Ee05FA388a3A0a7Df792Fa7
+[2023-12-07T21:39:20] [INFO] Miner's address : 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
+[2023-12-07T21:39:20] [INFO] ABI specified, using "ABAS.abi"
+[2023-12-07T21:39:20] [INFO] Gas limit: 2704624
+[2023-12-07T21:39:20] [INFO] Gas to mine: 2.3 GWei
+[2023-12-07T21:39:20] [INFO] Minimum ABAS per Mint: 3.5
+[2023-12-07T21:39:20] [INFO] Gas API URL: 
+[2023-12-07T21:39:20] [INFO] Gas API path: 
+[2023-12-07T21:39:20] [INFO] Gas API path: 
+[2023-12-07T21:39:20] [INFO] Minting ETH from contract: True
+[2023-12-07T21:39:20] [INFO] Checking maximum target from network...
+[2023-12-07T21:39:20] CUDA [WARN] NvSMI library not found.
+[2023-12-07T21:39:20] CUDA ID: 0 [INFO] Assigning device...
+[2023-12-07T21:39:21] CUDA ID: 0 [INFO] Compute capability: 6.1
+[2023-12-07T21:39:21] CUDA ID: 0 [INFO] Intensity: 25.5
+[2023-12-07T21:39:21] CUDA ID: 0 [INFO] Assigned device (NVIDIA GeForce GTX 1060 6GB)...
+[2023-12-07T21:39:21] CUDA ID: 0 [INFO] Initializing device...
+[2023-12-07T21:39:21] [INFO] JSON-API service started at http://127.0.0.1:4078/...
+[2023-12-07T21:39:21] [INFO] Checking latest parameters from network...
+[2023-12-07T21:39:21] [INFO] ccminer-API service started at 127.0.0.1:4068...
+[2023-12-07T21:39:21] [INFO] New challenge detected 0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a...
+[2023-12-07T21:39:21] [INFO] New target detected 0x0000040000000000000000000000000000000000000000000000000000000000...
+[2023-12-07T21:39:21] [INFO] New difficulty detected (1)...
+[2023-12-07T21:39:21] [INFO] New ABAS Reward detected 80.896 ABAS
+[2023-12-07T21:39:21] CUDA ID: 0 [INFO] Start mining...
+[2023-12-07T21:39:21] CUDA ID: 0 [INFO] Found solution, verifying...
+[2023-12-07T21:39:21] CUDA ID: 0 [INFO] Solution verified, submitting nonce 0xebb04399ddb0c5c7b8cf53cf3e7b1e00000000005a0c88cf73e669d126085e2d...
+[2023-12-07T21:39:21] [STOP] SOLVING
+[2023-12-07T21:39:22] [NFT INFO] This many slow blocks (12 minutes+) until NFT becomes active again 78
+[2023-12-07T21:39:22] [ERC20 Token Address List] Max Number of Tokens to  mint = 1
+[2023-12-07T21:39:22] [ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:39:22] [INFO] NFT Address  0x1A20D328CF126dD39e03b29979c0815DD101321e
+[2023-12-07T21:39:22] [INFO] NFT ID  1373
+[2023-12-07T21:39:22] [EPOCH #] EPOCH # 2375
+[2023-12-07T21:39:22] [INFO] Current ETH you SEND if solved now is 0.0000149254 Ethereum
+[2023-12-07T21:39:22] [ERC20] You have a total of 1 ERC20 Tokens in your Mint List
+[2023-12-07T21:39:22] [ERC20] You can mint 3 ERC20 Tokens on this Mint
+[2023-12-07T21:39:22] [ERC20] We will mint this many tokens total this mint: 1
+[2023-12-07T21:39:22] [Minting ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:39:22] [INFO] MinABASperMint is 3.5 ABAS
+[2023-12-07T21:39:22] [INFO] Please enter your personal Address and Private Key in ABASminer Config File, using exposed privateKey
+[2023-12-07T21:39:22] [INFO] Current Challenge is  6742447040314060665417137613664534176259221555550072204568321480251030233162
+[2023-12-07T21:39:22] [INFO] Current Challenge is  0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a
+[2023-12-07T21:39:22] [INFO] Current Reward for a Solve is 80.972 ABAS
+[2023-12-07T21:39:22] Submitting ABAS reward is larger than MinABASperMint
+[2023-12-07T21:39:22] [ERROR] One or more errors occurred. (insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235560443312376)
+ insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235560443312376
+  insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235560443312376
+
+*** ABAS_Miner 3.3.1 forked from IwYeo's SoliditySHA3Miner - Untouchable and crnxhh (2023) ***
+*** Built with .NET 5.0 SDK, VC++ 19.28.29914, gcc 4.8.5, nVidia CUDA SDK 10.2 64-bit, and AMD APP SDK v3.0.130.135 (OpenCL)
+
+Donation addresses:
+ETH (or any ERC 20/918 tokens)	: 0x9172ff7884CEFED19327aDaCe9C470eF1796105c
+BTC                             : 3GS5J5hcG6Qcu9xHWGmJaV5ftWLmZuR255
+LTC                             : LbFkAto1qYt8RdTFHL871H4djendcHyCyB
+
+[2023-12-07T21:39:59] [INFO] King making disabled.
+[2023-12-07T21:39:59] [INFO] Solo mining mode.
+[2023-12-07T21:39:59] CUDA [INFO] Device not specified, default assign all CUDA devices.
+[2023-12-07T21:39:59] OpenCL [INFO] AMD APP device not specified, default assign all AMD APP devices.
+[2023-12-07T21:40:00] OpenCL [WARN] Unable to get device count for AMD APP: CL_DEVICE_NOT_FOUND
+[2023-12-07T21:40:00] [INFO] Contract address : 0x0B549125fbEA37E52Ee05FA388a3A0a7Df792Fa7
+[2023-12-07T21:40:00] [INFO] Miner's address : 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
+[2023-12-07T21:40:00] [INFO] ABI specified, using "ABAS.abi"
+[2023-12-07T21:40:00] [INFO] Gas limit: 2704624
+[2023-12-07T21:40:00] [INFO] Gas to mine: 2.3 GWei
+[2023-12-07T21:40:00] [INFO] Minimum ABAS per Mint: 3.5
+[2023-12-07T21:40:00] [INFO] Gas API URL: 
+[2023-12-07T21:40:00] [INFO] Gas API path: 
+[2023-12-07T21:40:00] [INFO] Gas API path: 
+[2023-12-07T21:40:00] [INFO] Minting ETH from contract: True
+[2023-12-07T21:40:00] [INFO] Checking maximum target from network...
+[2023-12-07T21:40:00] CUDA [WARN] NvSMI library not found.
+[2023-12-07T21:40:00] CUDA ID: 0 [INFO] Assigning device...
+[2023-12-07T21:40:00] CUDA ID: 0 [INFO] Compute capability: 6.1
+[2023-12-07T21:40:00] CUDA ID: 0 [INFO] Assigned device (NVIDIA GeForce GTX 1060 6GB)...
+[2023-12-07T21:40:00] CUDA ID: 0 [INFO] Intensity: 25.5
+[2023-12-07T21:40:00] CUDA ID: 0 [INFO] Initializing device...
+[2023-12-07T21:40:00] [INFO] JSON-API service started at http://127.0.0.1:4078/...
+[2023-12-07T21:40:00] [INFO] Checking latest parameters from network...
+[2023-12-07T21:40:00] [INFO] ccminer-API service started at 127.0.0.1:4068...
+[2023-12-07T21:40:01] [INFO] New challenge detected 0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a...
+[2023-12-07T21:40:01] [INFO] New target detected 0x0000040000000000000000000000000000000000000000000000000000000000...
+[2023-12-07T21:40:01] [INFO] New difficulty detected (1)...
+[2023-12-07T21:40:01] [INFO] New ABAS Reward detected 82.157 ABAS
+[2023-12-07T21:40:01] CUDA ID: 0 [INFO] Start mining...
+[2023-12-07T21:40:01] CUDA ID: 0 [INFO] Found solution, verifying...
+[2023-12-07T21:40:01] CUDA ID: 0 [INFO] Solution verified, submitting nonce 0xb47122e058ca08f677adfd061b31110000000000ea2360ceb16d304bb5f6dae3...
+[2023-12-07T21:40:01] [STOP] SOLVING
+[2023-12-07T21:40:02] [NFT INFO] This many slow blocks (12 minutes+) until NFT becomes active again 78
+[2023-12-07T21:40:02] [ERC20 Token Address List] Max Number of Tokens to  mint = 1
+[2023-12-07T21:40:02] [ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:40:02] [INFO] NFT Address  0x1A20D328CF126dD39e03b29979c0815DD101321e
+[2023-12-07T21:40:02] [INFO] NFT ID  1373
+[2023-12-07T21:40:02] [EPOCH #] EPOCH # 2375
+[2023-12-07T21:40:02] [INFO] Current ETH you SEND if solved now is 0.0000149254 Ethereum
+[2023-12-07T21:40:02] [ERC20] You can mint 3 ERC20 Tokens on this Mint
+[2023-12-07T21:40:02] [ERC20] You have a total of 1 ERC20 Tokens in your Mint List
+[2023-12-07T21:40:02] [ERC20] We will mint this many tokens total this mint: 1
+[2023-12-07T21:40:02] [Minting ERC20 Token Address List] Position = 0 = 0xAe56c981F9bb8b07E380B209FcD1498c5876Fd4c
+[2023-12-07T21:40:02] [INFO] Please enter your personal Address and Private Key in ABASminer Config File, using exposed privateKey
+[2023-12-07T21:40:02] [INFO] MinABASperMint is 3.5 ABAS
+[2023-12-07T21:40:02] [INFO] Current Challenge is  6742447040314060665417137613664534176259221555550072204568321480251030233162
+[2023-12-07T21:40:02] [INFO] Current Challenge is  0x0ee816fc537ff3ace336d1655ced5e089d646c4f079884fddfd57e390a55e04a
+[2023-12-07T21:40:02] [INFO] Current Reward for a Solve is 82.208 ABAS
+[2023-12-07T21:40:02] Submitting ABAS reward is larger than MinABASperMint
+[2023-12-07T21:40:02] [ERROR] One or more errors occurred. (insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235560443312376)
+ insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235560443312376
+  insufficient funds for gas * price + value: address 0x851c0428ee0be11f80d93205f6cB96adBBED22e6 have 2903500000000 want 6235560443312376
