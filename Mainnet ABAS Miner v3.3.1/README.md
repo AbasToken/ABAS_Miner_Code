@@ -36,9 +36,9 @@ Also must fill in account and private key in _zkBitcoinMiner.conf file
   - If omitted, you are not able to mine, a dummy account is the default with no funds.
   - Replace the value with your own mining Ethereum address Private key (64 characters long including, case-sensitive).
 
-2c) MinzkBTCperMint=
-  - If omitted, it is set to the default 3.5 zkBitcoin per mint transaction.
-  - Replace this value with the amount of zkBitcoin you wish to recieve per Mint.
+2c) MinABASperMint=
+  - If omitted, it is set to the default 3.5 ABAS Tokens per mint transaction.
+  - Replace this value with the amount of ABAS Tokens you wish to recieve per Mint.
   
 2d) web3api=
   - If omitted, it is set to my Alchemy account.
@@ -167,7 +167,7 @@ Options:
 
 -  privateKey              (Solo only) Miner's private key
 
--  MinABASperMint         (Solo only) Minimum amount of zkBitcoin to allow the mint to succeed
+-  MinABASperMint         (Solo only) Minimum amount of ABAS Tokens to allow the mint to succeed
 
 -  NFTApiURL               (Solo only) URL to the API for NFT minting
   
